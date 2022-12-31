@@ -7,10 +7,19 @@ El proyecto trata de un conversor de monedas y además de tener esta funcionalid
 El proyecto en cuestión esta disponible para quien lo quiera mejorar o usar. </p>
 # Modo de uso
 
-# Badges
+# Badges.
 <p align="left">
    <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green"> <img src="https://img.shields.io/badge/Versi%C3%B3n-Java18-orange">
    </p>
-# Tecnoloquia usada
-# Conclusion
+<h2> Tecnologuia usada.</h2>
+<h3> - En este proyecto se usaron los sigientes conceptos del lenguaje JAVA: </h3>
+<ul>
+   <li>Conceptos basicos de Java.</li>
+   <li>Orientacion a Objetos.</li>
+   <li>Herencia y Polimorfismo.</li>
+   <li>Captura de Excepciones.</li>
+   <li>Validaciones.</li>
+   <li>Otros.</li>
+</ul>
+# Conclusion.
 # Autor

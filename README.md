@@ -7,7 +7,7 @@ El proyecto trata de un conversor de monedas y además de tener esta funcionalid
 El proyecto en cuestión esta disponible para quien lo quiera mejorar o usar. </p>
 # Modo de uso
 
-# Badges (version y otros)
+# Badges
 <p align="left">
    <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green"> <img src="https://img.shields.io/badge/Versi%C3%B3n-Java18-orange">
    </p>
